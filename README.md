@@ -23,6 +23,6 @@
 ## 统计
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cnkrru&show_icons=true&theme=transparent&hide_border=true&title_color=6F6FFF&icon_color=6F6FFF" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnkrru&layout=compact&theme=transparent&hide_border=true&title_color=6F6FFF" alt="top langs" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Cnkrru&show_icons=true&theme=transparent&hide_border=true&title_color=6F6FFF&icon_color=6F6FFF" alt="stats" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cnkrru&layout=compact&theme=transparent&hide_border=true&title_color=6F6FFF" alt="top langs" />
 </div>
